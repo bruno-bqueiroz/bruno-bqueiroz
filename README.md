@@ -1,19 +1,11 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on ... english course for fluency;
-- 🌱 I’m currently learning ... Bootcamp Driven Desenvolvedor web Full Stack(focusing on backend);
-- 🤔 I’m looking for help with ... react/JS;
-
 <h1 align="center">Hi 👋, I'm Bruno Barbosa de Queiroz</h1>
 <h3 align="center">Resultados de tradução Passionate about traveling. I'm currently immersed in the world of web development with Bootcamp Driven.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bruno-bqueiroz" alt="bruno-bqueiroz" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
-
+- 🔭 I’m currently working on ... english course for fluency;
+- 🌱 I’m currently learning ... **Typescript** on Bootcamp Driven Desenvolvedor web Full Stack(focusing on backend);
 - 💬 Ask me about **Javascript, Node.JS, React**
-
 - 📫 How to reach me **brunobdq32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
