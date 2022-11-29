@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Barbosa de Queiroz</h1>
 <h3 align="center">Passionate about traveling. I'm currently immersed in the world of web development with Bootcamp Driven.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bruno-bqueiroz" alt="bruno-bqueiroz" /></a> </p>
+
 
 - 🔭 I’m currently working on ... english course for fluency;
 - 🌱 I’m currently learning ... **Typescript** on Bootcamp Driven Desenvolvedor web Full Stack(focusing on backend);
